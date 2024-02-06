@@ -1,1 +1,1 @@
-# angular-dashboard-1
+# dashboard-1
